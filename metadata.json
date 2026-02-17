@@ -1,0 +1,7 @@
+{
+  "name": "PetroEnglish Coach",
+  "description": "An AI-powered English language trainer specifically designed for oil and gas professionals, providing real-time voice corrections and industry-specific roleplays.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
